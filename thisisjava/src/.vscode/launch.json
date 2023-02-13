@@ -1,0 +1,434 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentExample",
+            "request": "launch",
+            "mainClass": "ch06.sec04.StudentExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CarExample",
+            "request": "launch",
+            "mainClass": "ch06.sec06.exam01.CarExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CarExample(1)",
+            "request": "launch",
+            "mainClass": "ch06.sec06.exam02.CarExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CarExample(2)",
+            "request": "launch",
+            "mainClass": "ch06.sec07.exam01.CarExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch KoreanExample",
+            "request": "launch",
+            "mainClass": "ch06.sec07.exam02.KoreanExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CarExample(3)",
+            "request": "launch",
+            "mainClass": "ch06.sec07.exam04.CarExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CarExample(4)",
+            "request": "launch",
+            "mainClass": "ch06.sec07.exam05.CarExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalculatorExample",
+            "request": "launch",
+            "mainClass": "ch06.sec08.exam01.CalculatorExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComputerExample",
+            "request": "launch",
+            "mainClass": "ch06.sec08.exam02.ComputerExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CarExample(5)",
+            "request": "launch",
+            "mainClass": "ch06.sec08.exam03.CarExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalculatorExample(1)",
+            "request": "launch",
+            "mainClass": "ch06.sec08.exam04.CalculatorExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CarExample(6)",
+            "request": "launch",
+            "mainClass": "ch06.sec09.CarExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalculatorExample(2)",
+            "request": "launch",
+            "mainClass": "ch06.sec10.exam01.CalculatorExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example",
+            "request": "launch",
+            "mainClass": "ch06.sec10.exam02.Example",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Car",
+            "request": "launch",
+            "mainClass": "ch06.sec10.exam3.Car",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch KoreanExample(1)",
+            "request": "launch",
+            "mainClass": "ch06.sec11.exam01.KoreanExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch EarthExample",
+            "request": "launch",
+            "mainClass": "ch06.sec11.exam02.EarthExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CarExample(7)",
+            "request": "launch",
+            "mainClass": "ch06.sec14.CarExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch SingletonExample",
+            "request": "launch",
+            "mainClass": "ch06.sec15.SingletonExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch MemberService",
+            "request": "launch",
+            "mainClass": "ch06.test.exam15.MemberService",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Printer",
+            "request": "launch",
+            "mainClass": "ch06.test.exam16.Printer",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Printer(1)",
+            "request": "launch",
+            "mainClass": "ch06.test.exam17.Printer",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShopService",
+            "request": "launch",
+            "mainClass": "ch06.test.exam18.ShopService",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Account",
+            "request": "launch",
+            "mainClass": "ch06.test.exam19.Account",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch BankApplication",
+            "request": "launch",
+            "mainClass": "ch06.test.exam20.BankApplication",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch SmartPhoneExample",
+            "request": "launch",
+            "mainClass": "ch07.sec02.SmartPhoneExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch SmartPhoneExample(1)",
+            "request": "launch",
+            "mainClass": "ch07.sec03.exam01.SmartPhoneExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch SmartPhoneExample(2)",
+            "request": "launch",
+            "mainClass": "ch07.sec03.exam02.SmartPhoneExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComputerExample(1)",
+            "request": "launch",
+            "mainClass": "ch07.sec04.exam01.ComputerExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch SupersonicAirplaneExample",
+            "request": "launch",
+            "mainClass": "ch07.sec04.exam02.SupersonicAirplaneExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch PromotionExample",
+            "request": "launch",
+            "mainClass": "ch07.sec07.exam01.PromotionExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ChildExample",
+            "request": "launch",
+            "mainClass": "ch07.sec07.exam02.ChildExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ChildExample(1)",
+            "request": "launch",
+            "mainClass": "ch07.sec07.exam03.ChildExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CarExample(8)",
+            "request": "launch",
+            "mainClass": "ch07.sec08.exam01.CarExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch DriverExample",
+            "request": "launch",
+            "mainClass": "ch07.sec08.exam02.DriverExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch InstanceofExample",
+            "request": "launch",
+            "mainClass": "ch07.sec09.InstanceofExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch PhoneExample",
+            "request": "launch",
+            "mainClass": "ch07.sec10.exam01.PhoneExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch AbstractMethodExample",
+            "request": "launch",
+            "mainClass": "ch07.sec10.exam02.AbstractMethodExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch SealedExample",
+            "request": "launch",
+            "mainClass": "ch07.sec11.SealedExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ChildExample(2)",
+            "request": "launch",
+            "mainClass": "ch07.test.exam07.ChildExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch SnowTireExample",
+            "request": "launch",
+            "mainClass": "ch07.test.exam08.SnowTireExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example(1)",
+            "request": "launch",
+            "mainClass": "ch07.test.exam12.Example",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoteControlExample",
+            "request": "launch",
+            "mainClass": "ch08.sec02.RemoteControlExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoteControlExample(1)",
+            "request": "launch",
+            "mainClass": "ch08.sec03.RemoteControlExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoteControlExample(2)",
+            "request": "launch",
+            "mainClass": "ch08.sec04.RemoteControlExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoteControlExample(3)",
+            "request": "launch",
+            "mainClass": "ch08.sec05.RemoteControlExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoteControlExample(4)",
+            "request": "launch",
+            "mainClass": "ch08.sec06.RemoteControlExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ServiceExample",
+            "request": "launch",
+            "mainClass": "ch08.sec07.ServiceExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiInterfaceImplExample",
+            "request": "launch",
+            "mainClass": "ch08.sec08.MultiInterfaceImplExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExtendsExample",
+            "request": "launch",
+            "mainClass": "ch08.sec09.ExtendsExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch PromotionExample(1)",
+            "request": "launch",
+            "mainClass": "ch08.sec10.exam01.PromotionExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CastingExample",
+            "request": "launch",
+            "mainClass": "ch08.sec10.exam02.CastingExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CarExample(9)",
+            "request": "launch",
+            "mainClass": "ch08.sec11.exam01.CarExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch DriverExample(1)",
+            "request": "launch",
+            "mainClass": "ch08.sec11.exam02.DriverExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch InstanceFoExample",
+            "request": "launch",
+            "mainClass": "ch08.sec12.InstanceFoExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch SealedExample(1)",
+            "request": "launch",
+            "mainClass": "ch08.sec13.SealedExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch TV",
+            "request": "launch",
+            "mainClass": "ch08.test.exam05.TV",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch SoundableExample",
+            "request": "launch",
+            "mainClass": "ch08.test.exam06.SoundableExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch DaoExample",
+            "request": "launch",
+            "mainClass": "ch08.test.exam07.DaoExample",
+            "projectName": "src_5a765e6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example(2)",
+            "request": "launch",
+            "mainClass": "ch08.test.exam08.Example",
+            "projectName": "src_5a765e6a"
+        }
+    ]
+}
