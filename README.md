@@ -1,1 +1,1 @@
-# Practice_ThisIsJava
+# Study_ThisIsJava
