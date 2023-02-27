@@ -1,7 +1,5 @@
 package ch09.sec02.exam02;
 
-import ch08.test.exam06.Soundable;
-
 public class A {
     // 인스턴스 멤버 클래스
     class B {

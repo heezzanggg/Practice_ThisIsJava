@@ -1,5 +1,6 @@
 package ch09.sec04.exam01;
 
+//로컬 클래스 : 생성자 or 메소드 내부에서 선언된 클래스
 public class A {
     // 생성자
     A() {

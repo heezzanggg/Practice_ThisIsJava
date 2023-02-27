@@ -3,7 +3,7 @@ package ch09.sec04.exam02;
 public class A {
     // 메소드
     void useB() {
-        // 로컬 클래스
+        // 메소드 안의 로컬 클래스 B
         class B {
             // 인스턴스 필드
             int field1 = 1;
