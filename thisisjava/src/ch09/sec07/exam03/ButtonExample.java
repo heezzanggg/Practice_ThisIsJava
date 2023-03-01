@@ -24,9 +24,12 @@ public class ButtonExample {
     // Cancel 버튼 객체에 ClickListener구현 객체 주입
     btnCancel.setClickListener(new Button.ClickListener() {
       @Override
-      public void onClick(){
+      public void onClick() {
         System.out.println("Cancel버튼을 클릭했습니다.");
       }
-    })
+    });
+
+    // Cancel 버튼 클릭
+    btnCancel.click();
   }
 }
