@@ -5,22 +5,25 @@ package ch08.sec05;
 //[public] default 리턴타입 메소드명(매개변수,....){...}
 //디폴트 메소드 실행부에는 상수필드 읽기가능,추상메소드 호출코드 작성 가능
 public interface RemoteControl {
-    //상수필드
+    // 상수필드
     int MAX_VOLUME = 10;
     int MIN_VOLUME = 0;
 
-    //추상메소드
+    // 추상메소드
     void turnOn();
+
     void turnOff();
+
     void setVolume(int volume);
 
-    //디폴트 인스턴스 메소드
-    default void setMute(boolean mute){
-        if(mute){
+    // 디폴트 인스턴스 메소드
+    default void setMute(boolean mute) {
+        if (mute) {
             System.out.println("무음처리");
-            //추상메소드 호출하면서 상수필드 적용
+
+            // 추상메소드 호출하면서 상수필드 적용
             setVolume(MIN_VOLUME);
-        }else {
+        } else {
             System.out.println("무음해제");
         }
     }
