@@ -1,7 +1,7 @@
 package ch08.test.exam07;
 
-public class OracleDao implements DataAccessObject{
-    //추상메소드 오버라이딩
+public class OracleDao implements DataAccessObject {
+    // 추상메소드 오버라이딩
 
     @Override
     public void select() {
