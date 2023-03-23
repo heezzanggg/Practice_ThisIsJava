@@ -19,6 +19,9 @@ public class Main {
 		C c = new C();
 		c.method();
 		
+		C result = a.getC();
+		result.method();
+		
 	}
 
 }
