@@ -27,6 +27,7 @@ public class HashMapExample {
 
     // 키 Set컬렉션을 얻고, 반복해서 키와 값 얻기
     Set<String> keySet = map.keySet();
+    System.out.println("keySet:" + keySet);
     Iterator<String> keyIterator = keySet.iterator();
     while (keyIterator.hasNext()) {
       String k = keyIterator.next();
@@ -37,6 +38,7 @@ public class HashMapExample {
 
     // 엔트리 Set 컬렉션을 얻고, 반복해서 키와 값을 얻기
     Set<Entry<String, Integer>> entrySet = map.entrySet();
+    System.out.println("entrySet: " + entrySet);
     Iterator<Entry<String, Integer>> entryIterator = entrySet.iterator();
     while (entryIterator.hasNext()) {
       Entry<String, Integer> entry = entryIterator.next();

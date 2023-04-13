@@ -1,7 +1,5 @@
 package ch11.test.exam08;
 
-import java.io.IOException;
-
 public class FilterWriterExample {
   public static void main(String[] args) {
 
